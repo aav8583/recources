@@ -1,8 +1,10 @@
-﻿using System.ComponentModel.DataAnnotations.Schema;
+﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 [Table("user_customization")]
 public class UserCustomization
 {
+    [Key]
     public ulong Id { get; set; }
     public int Parent1 { get; set; }
     public int Parent2 { get; set; }
@@ -38,6 +40,8 @@ public class UserCustomization
     public int HairStyle { get; set; }
     public double ChinWidth { get; set; }
 
-    public int UserId { get; set; }
-    public Users Users { get; set; }
+    [ForeignKey("Users")] // Указывает на свойство, которое является внешним ключом
+    public ulong UserId { get; set; } // Должно соответствовать типу данных внешнего ключа в `users`
+
+    public virtual Users Users { get; set; }
 }
