@@ -1,0 +1,18 @@
+C:\FXServer1\txData\CFXDefaultFiveM_ACF7D2.base\resources\[tutorial]\tutorial 1\Tutorial\Tutorial.Client\bin\Release\Tutorial.Client.net.dll
+C:\FXServer1\txData\CFXDefaultFiveM_ACF7D2.base\resources\[tutorial]\tutorial 1\Tutorial\Tutorial.Client\bin\Release\Tutorial.Client.net.pdb
+C:\FXServer1\txData\CFXDefaultFiveM_ACF7D2.base\resources\[tutorial]\tutorial 1\Tutorial\Tutorial.Client\bin\Release\CitizenFX.Core.Client.dll
+C:\FXServer1\txData\CFXDefaultFiveM_ACF7D2.base\resources\[tutorial]\tutorial 1\Tutorial\Tutorial.Client\bin\Release\CitizenFX.Core.Client.xml
+C:\FXServer1\txData\CFXDefaultFiveM_ACF7D2.base\resources\[tutorial]\tutorial 1\Tutorial\Tutorial.Client\obj\Release\Tutorial.Client.csproj.AssemblyReference.cache
+C:\FXServer1\txData\CFXDefaultFiveM_ACF7D2.base\resources\[tutorial]\tutorial 1\Tutorial\Tutorial.Client\obj\Release\Tutorial.Client.csproj.CoreCompileInputs.cache
+C:\FXServer1\txData\CFXDefaultFiveM_ACF7D2.base\resources\[tutorial]\tutorial 1\Tutorial\Tutorial.Client\obj\Release\Tutorial.Client.csproj.CopyComplete
+C:\FXServer1\txData\CFXDefaultFiveM_ACF7D2.base\resources\[tutorial]\tutorial 1\Tutorial\Tutorial.Client\obj\Release\Tutorial.Client.net.dll
+C:\FXServer1\txData\CFXDefaultFiveM_ACF7D2.base\resources\[tutorial]\tutorial 1\Tutorial\Tutorial.Client\obj\Release\Tutorial.Client.net.pdb
+C:\FXServer1\txData\CFXDefaultFiveM_ACF7D2.base\resources\[tutorial]\tutorial1\Tutorial\Tutorial.Client\bin\Release\Tutorial.Client.net.dll
+C:\FXServer1\txData\CFXDefaultFiveM_ACF7D2.base\resources\[tutorial]\tutorial1\Tutorial\Tutorial.Client\bin\Release\Tutorial.Client.net.pdb
+C:\FXServer1\txData\CFXDefaultFiveM_ACF7D2.base\resources\[tutorial]\tutorial1\Tutorial\Tutorial.Client\bin\Release\CitizenFX.Core.Client.dll
+C:\FXServer1\txData\CFXDefaultFiveM_ACF7D2.base\resources\[tutorial]\tutorial1\Tutorial\Tutorial.Client\bin\Release\CitizenFX.Core.Client.xml
+C:\FXServer1\txData\CFXDefaultFiveM_ACF7D2.base\resources\[tutorial]\tutorial1\Tutorial\Tutorial.Client\obj\Release\Tutorial.Client.csproj.AssemblyReference.cache
+C:\FXServer1\txData\CFXDefaultFiveM_ACF7D2.base\resources\[tutorial]\tutorial1\Tutorial\Tutorial.Client\obj\Release\Tutorial.Client.csproj.CoreCompileInputs.cache
+C:\FXServer1\txData\CFXDefaultFiveM_ACF7D2.base\resources\[tutorial]\tutorial1\Tutorial\Tutorial.Client\obj\Release\Tutorial.Client.csproj.CopyComplete
+C:\FXServer1\txData\CFXDefaultFiveM_ACF7D2.base\resources\[tutorial]\tutorial1\Tutorial\Tutorial.Client\obj\Release\Tutorial.Client.net.dll
+C:\FXServer1\txData\CFXDefaultFiveM_ACF7D2.base\resources\[tutorial]\tutorial1\Tutorial\Tutorial.Client\obj\Release\Tutorial.Client.net.pdb

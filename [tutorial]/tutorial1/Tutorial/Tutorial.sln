@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial.Client", "Tutorial.Client\Tutorial.Client.csproj", "{D0F44F99-11BE-4C4B-9DBC-BE60F42BFD99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial.Server", "Tutorial.Server\Tutorial.Server.csproj", "{AF96B15A-2521-49DF-AB51-4DA83AAE9C0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0F44F99-11BE-4C4B-9DBC-BE60F42BFD99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0F44F99-11BE-4C4B-9DBC-BE60F42BFD99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0F44F99-11BE-4C4B-9DBC-BE60F42BFD99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0F44F99-11BE-4C4B-9DBC-BE60F42BFD99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF96B15A-2521-49DF-AB51-4DA83AAE9C0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF96B15A-2521-49DF-AB51-4DA83AAE9C0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF96B15A-2521-49DF-AB51-4DA83AAE9C0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF96B15A-2521-49DF-AB51-4DA83AAE9C0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
